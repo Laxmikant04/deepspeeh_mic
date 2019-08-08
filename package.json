@@ -1,0 +1,28 @@
+{
+  "name": "node-deepspeech-mic-local",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "deepspeech": "0.5.1",
+    "dotenv": "^6.2.0",
+    "sox-stream": "^2.0.3"
+  },
+  "devDependencies": {
+    "express": "^4.16.4",
+    "express-static": "^1.2.6",
+    "progress": "^2.0.3",
+    "socket.io": "^2.2.0",
+    "socket.io-stream": "^0.9.1",
+    "webrtc-adapter": "^7.2.0",
+    "wget-improved": "^3.0.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
