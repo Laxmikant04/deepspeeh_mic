@@ -15,7 +15,7 @@
     "sox-stream": "^2.0.3"
   },
   "devDependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-static": "^1.2.6",
     "progress": "^2.0.3",
     "socket.io": "^2.2.0",
